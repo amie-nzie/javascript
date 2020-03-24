@@ -1,10 +1,11 @@
-$ FULL NAME
+# FULL NAME
 Eke Amarachi Nzie
-$ Email
+# Email
 costlystone@gmail.com
-$ SLACK USERNAME
+# SLACK USERNAME
 Amarachi Eke
-$ TRACKS
+# TRACKS
 Front end and Mobile
-$ Courses
-HTML, CSS, Javascript, Flutter, Kotlin
+# Courses
+HTML, CSS, Javascript, Flutter, Kotlin, Java 
+
